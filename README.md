@@ -29,10 +29,14 @@ Please ensure your issue templates follow our standardized format.
 
 ## Project Maintainers
 
-[List maintainers here]
+# Default owners for everything in the repo
+* [@Hafsa-Ahmadi]
+
+# Owners for specific directories
+/.github/workflows/ [@Hafsa-Ahmadi]
+/docs/ 
+
 
 ## License
-]
-[## License
 
 This project is licensed under the [MIT License](GPL-3).
